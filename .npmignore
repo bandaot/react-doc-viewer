@@ -2,7 +2,6 @@
 /.vscode
 /demo
 /public
-/src
 CHANGELOG.md
 README.md
 tsconfig-npm.json
